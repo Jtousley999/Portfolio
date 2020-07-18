@@ -1,0 +1,41 @@
+body {
+  background-color: whitesmoke;
+}
+
+#picture {
+  max-width: 850px;
+  max-height: 400px;
+}
+
+#listStyle {
+  list-style: none;
+  padding: 10px;
+}
+
+.links {
+  text-decoration: underline;
+  color: orange;
+}
+
+.spanText {
+  font-size: larger;
+  font-weight: bold;
+}
+
+.headerStyle {
+  margin-top: 15px;
+  background-image: url("img/background.jpg");
+  color: white;
+  font-size: 20px;
+  padding: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  border: bisque solid 4px;
+}
+
+#mainArea {
+  margin-top: 20px;
+}
+
+.eachCol {
+  margin: 25px;
+}
